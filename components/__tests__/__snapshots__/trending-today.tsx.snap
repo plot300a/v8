@@ -1,0 +1,1386 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<RCTScrollView
+  showsVerticalScrollIndicator={false}
+>
+  <View>
+    <RNCSafeAreaView
+      edges={
+        {
+          "bottom": "additive",
+          "left": "additive",
+          "right": "additive",
+          "top": "additive",
+        }
+      }
+      style={
+        [
+          {
+            "flex": 1,
+            "paddingHorizontal": 10,
+          },
+          {
+            "backgroundColor": "#ffffff",
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          {
+            "flexDirection": "row",
+            "marginVertical": 10,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "width": "40%",
+            }
+          }
+        >
+          <Image
+            resizeMethod="resize"
+            source={1}
+            style={
+              {
+                "borderRadius": 10,
+                "height": 80,
+                "position": "relative",
+                "width": "100%",
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            {
+              "height": 80,
+              "paddingLeft": 10,
+              "width": "60%",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "marginBottom": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "fontSize": 14,
+                    "fontWeight": "bold",
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              Mr.CEO’s Music Project
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "marginBottom": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "fontSize": 12,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              Excepteur sint occaet sint proido cupidatat proido
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "margin": 3,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "color": "black",
+                    "fontSize": 10,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              <View
+                color="#000000"
+                name="eyeo"
+                size={12}
+              />
+               21,778
+            </Text>
+            <Text
+              style={
+                [
+                  {
+                    "color": "black",
+                    "fontSize": 10,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              <View
+                color="#000000"
+                name="clock"
+                size={12}
+              />
+              2hrs ago
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+            "marginVertical": 10,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "width": "40%",
+            }
+          }
+        >
+          <Image
+            resizeMethod="resize"
+            source={1}
+            style={
+              {
+                "borderRadius": 10,
+                "height": 80,
+                "position": "relative",
+                "width": "100%",
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            {
+              "height": 80,
+              "paddingLeft": 10,
+              "width": "60%",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "marginBottom": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "fontSize": 14,
+                    "fontWeight": "bold",
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              Ghana Music Awards 2023
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "marginBottom": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "fontSize": 12,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              Excepteur sint occaet sint proido cupidatat proido
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "margin": 3,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "color": "black",
+                    "fontSize": 10,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              <View
+                color="#000000"
+                name="eyeo"
+                size={12}
+              />
+               21,778
+            </Text>
+            <Text
+              style={
+                [
+                  {
+                    "color": "black",
+                    "fontSize": 10,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              <View
+                color="#000000"
+                name="clock"
+                size={12}
+              />
+              2hrs ago
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+            "marginVertical": 10,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "width": "40%",
+            }
+          }
+        >
+          <Image
+            resizeMethod="resize"
+            source={1}
+            style={
+              {
+                "borderRadius": 10,
+                "height": 80,
+                "position": "relative",
+                "width": "100%",
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            {
+              "height": 80,
+              "paddingLeft": 10,
+              "width": "60%",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "marginBottom": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "fontSize": 14,
+                    "fontWeight": "bold",
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              Mr.CEO’s Music Project
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "marginBottom": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "fontSize": 12,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              Excepteur sint occaet sint proido cupidatat proido
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "margin": 3,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "color": "black",
+                    "fontSize": 10,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              <View
+                color="#000000"
+                name="eyeo"
+                size={12}
+              />
+               21,778
+            </Text>
+            <Text
+              style={
+                [
+                  {
+                    "color": "black",
+                    "fontSize": 10,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              <View
+                color="#000000"
+                name="clock"
+                size={12}
+              />
+              2hrs ago
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+            "marginVertical": 10,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "width": "40%",
+            }
+          }
+        >
+          <Image
+            resizeMethod="resize"
+            source={1}
+            style={
+              {
+                "borderRadius": 10,
+                "height": 80,
+                "position": "relative",
+                "width": "100%",
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            {
+              "height": 80,
+              "paddingLeft": 10,
+              "width": "60%",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "marginBottom": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "fontSize": 14,
+                    "fontWeight": "bold",
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              Music Festival Performance
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "marginBottom": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "fontSize": 12,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              Excepteur sint occaet sint proido cupidatat proido
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "margin": 3,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "color": "black",
+                    "fontSize": 10,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              <View
+                color="#000000"
+                name="eyeo"
+                size={12}
+              />
+               21,778
+            </Text>
+            <Text
+              style={
+                [
+                  {
+                    "color": "black",
+                    "fontSize": 10,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              <View
+                color="#000000"
+                name="clock"
+                size={12}
+              />
+              2hrs ago
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+            "marginVertical": 10,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "width": "40%",
+            }
+          }
+        >
+          <Image
+            resizeMethod="resize"
+            source={1}
+            style={
+              {
+                "borderRadius": 10,
+                "height": 80,
+                "position": "relative",
+                "width": "100%",
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            {
+              "height": 80,
+              "paddingLeft": 10,
+              "width": "60%",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "marginBottom": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "fontSize": 14,
+                    "fontWeight": "bold",
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              Mr.CEO’s Music Project
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "marginBottom": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "fontSize": 12,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              Excepteur sint occaet sint proido cupidatat proido
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "margin": 3,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "color": "black",
+                    "fontSize": 10,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              <View
+                color="#000000"
+                name="eyeo"
+                size={12}
+              />
+               21,778
+            </Text>
+            <Text
+              style={
+                [
+                  {
+                    "color": "black",
+                    "fontSize": 10,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              <View
+                color="#000000"
+                name="clock"
+                size={12}
+              />
+              2hrs ago
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+            "marginVertical": 10,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "width": "40%",
+            }
+          }
+        >
+          <Image
+            resizeMethod="resize"
+            source={1}
+            style={
+              {
+                "borderRadius": 10,
+                "height": 80,
+                "position": "relative",
+                "width": "100%",
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            {
+              "height": 80,
+              "paddingLeft": 10,
+              "width": "60%",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "marginBottom": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "fontSize": 14,
+                    "fontWeight": "bold",
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              Mr.CEO’s Music Project
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "marginBottom": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "fontSize": 12,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              Excepteur sint occaet sint proido cupidatat proido
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "margin": 3,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "color": "black",
+                    "fontSize": 10,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              <View
+                color="#000000"
+                name="eyeo"
+                size={12}
+              />
+               21,778
+            </Text>
+            <Text
+              style={
+                [
+                  {
+                    "color": "black",
+                    "fontSize": 10,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              <View
+                color="#000000"
+                name="clock"
+                size={12}
+              />
+              2hrs ago
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+            "marginVertical": 10,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "width": "40%",
+            }
+          }
+        >
+          <Image
+            resizeMethod="resize"
+            source={1}
+            style={
+              {
+                "borderRadius": 10,
+                "height": 80,
+                "position": "relative",
+                "width": "100%",
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            {
+              "height": 80,
+              "paddingLeft": 10,
+              "width": "60%",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "marginBottom": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "fontSize": 14,
+                    "fontWeight": "bold",
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              Music Festival Performance
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "marginBottom": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "fontSize": 12,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              Excepteur sint occaet sint proido cupidatat proido
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "margin": 3,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "color": "black",
+                    "fontSize": 10,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              <View
+                color="#000000"
+                name="eyeo"
+                size={12}
+              />
+               21,778
+            </Text>
+            <Text
+              style={
+                [
+                  {
+                    "color": "black",
+                    "fontSize": 10,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              <View
+                color="#000000"
+                name="clock"
+                size={12}
+              />
+              2hrs ago
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+            "marginVertical": 10,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "width": "40%",
+            }
+          }
+        >
+          <Image
+            resizeMethod="resize"
+            source={1}
+            style={
+              {
+                "borderRadius": 10,
+                "height": 80,
+                "position": "relative",
+                "width": "100%",
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            {
+              "height": 80,
+              "paddingLeft": 10,
+              "width": "60%",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "marginBottom": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "fontSize": 14,
+                    "fontWeight": "bold",
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              Mr.CEO’s Music Project
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "marginBottom": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "fontSize": 12,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              Excepteur sint occaet sint proido cupidatat proido
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "margin": 3,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "color": "black",
+                    "fontSize": 10,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              <View
+                color="#000000"
+                name="eyeo"
+                size={12}
+              />
+               21,778
+            </Text>
+            <Text
+              style={
+                [
+                  {
+                    "color": "black",
+                    "fontSize": 10,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              <View
+                color="#000000"
+                name="clock"
+                size={12}
+              />
+              2hrs ago
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+            "marginVertical": 10,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "width": "40%",
+            }
+          }
+        >
+          <Image
+            resizeMethod="resize"
+            source={1}
+            style={
+              {
+                "borderRadius": 10,
+                "height": 80,
+                "position": "relative",
+                "width": "100%",
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            {
+              "height": 80,
+              "paddingLeft": 10,
+              "width": "60%",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "marginBottom": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "fontSize": 14,
+                    "fontWeight": "bold",
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              Music Festival Performance
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "marginBottom": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "fontSize": 12,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              Excepteur sint occaet sint proido cupidatat proido
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "margin": 3,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "color": "black",
+                    "fontSize": 10,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              <View
+                color="#000000"
+                name="eyeo"
+                size={12}
+              />
+               21,778
+            </Text>
+            <Text
+              style={
+                [
+                  {
+                    "color": "black",
+                    "fontSize": 10,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              <View
+                color="#000000"
+                name="clock"
+                size={12}
+              />
+              2hrs ago
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          {
+            "flexDirection": "row",
+            "marginVertical": 10,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "width": "40%",
+            }
+          }
+        >
+          <Image
+            resizeMethod="resize"
+            source={1}
+            style={
+              {
+                "borderRadius": 10,
+                "height": 80,
+                "position": "relative",
+                "width": "100%",
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            {
+              "height": 80,
+              "paddingLeft": 10,
+              "width": "60%",
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "marginBottom": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "fontSize": 14,
+                    "fontWeight": "bold",
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              Mr.CEO’s Music Project
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "marginBottom": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "fontSize": 12,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              Excepteur sint occaet sint proido cupidatat proido
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "flex-start",
+                "margin": 3,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "color": "black",
+                    "fontSize": 10,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              <View
+                color="#000000"
+                name="eyeo"
+                size={12}
+              />
+               21,778
+            </Text>
+            <Text
+              style={
+                [
+                  {
+                    "color": "black",
+                    "fontSize": 10,
+                  },
+                  {
+                    "color": "#000000",
+                  },
+                ]
+              }
+            >
+              <View
+                color="#000000"
+                name="clock"
+                size={12}
+              />
+              2hrs ago
+            </Text>
+          </View>
+        </View>
+      </View>
+      <ActivityIndicator
+        color="#010039"
+        size="large"
+      />
+    </RNCSafeAreaView>
+  </View>
+</RCTScrollView>
+`;

@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test InfoInput component Renders correctly 1`] = `
+<View
+  accessibilityLabel="Edit Bio"
+  accessible={true}
+  style={
+    {
+      "marginBottom": 25,
+    }
+  }
+  testID="input-field-Bio"
+>
+  <Text
+    style={
+      [
+        {
+          "color": "#000000",
+          "fontSize": 14,
+        },
+        {
+          "color": "#707070",
+          "fontWeight": "bold",
+          "marginBottom": 5,
+        },
+      ]
+    }
+  >
+    Bio
+  </Text>
+  <TextInput
+    style={
+      [
+        {
+          "backgroundColor": "rgba(0,0,0,0)",
+          "fontSize": 14,
+          "marginBottom": 3,
+          "marginTop": 10,
+          "paddingBottom": 5,
+          "width": "100%",
+        },
+        {
+          "color": "#000000",
+        },
+      ]
+    }
+    value="Hello, this is something small about me"
+  />
+  <View
+    style={
+      {
+        "backgroundColor": "#E3E3E3",
+        "height": 1,
+        "width": "100%",
+      }
+    }
+  />
+</View>
+`;
+
+exports[`Test TabHead component Renders correctly 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "marginLeft": -10,
+      "marginRight": 15,
+      "opacity": 1,
+    }
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "color": "#000000",
+          "fontSize": 14,
+        },
+        {
+          "color": "#707070",
+          "fontSize": 15,
+          "fontWeight": "bold",
+          "paddingBottom": 5,
+        },
+      ]
+    }
+    testID="tab-title"
+  >
+    Posts
+  </Text>
+</View>
+`;

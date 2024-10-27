@@ -1,0 +1,3 @@
+- Currently accepting from any ip address `0.0.0.0`
+- type `ipconfig` to show the ip address your device is connected to.
+- In the expo app type `exp://<the ip>:8081` to connect.
